@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -98,5 +97,4 @@ npm run dev
 
 
 <h4 align="center"> <br> Built with ❤️ to explore the future of Agentic AI.</h4>
-=======
->>>>>>> 4d33645 (added requirements and changed main.py)
+

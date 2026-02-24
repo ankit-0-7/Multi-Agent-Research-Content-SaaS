@@ -13,7 +13,7 @@ export default function Home() {
     setLoading(true);
     try {
       // ⚠️ IMPORTANT: Paste your Codespace backend URL here!
-      const response = await fetch('https://multi-agent-research-content-saa-s.vercel.app/research', {
+      const response = await fetch('https://multi-agent-research-content-saas.onrender.com/research', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ topic }),
