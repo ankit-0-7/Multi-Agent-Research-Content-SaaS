@@ -13,7 +13,7 @@ export default function Home() {
     setLoading(true);
     try {
       // ⚠️ IMPORTANT: Paste your Codespace backend URL here!
-      const response = await fetch('https://animated-space-broccoli-v9xw9q9gj772wjj4-8000.app.github.dev/research', {
+      const response = await fetch('https://multi-agent-research-content-saa-s.vercel.app/research', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ topic }),
