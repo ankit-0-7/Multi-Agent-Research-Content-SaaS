@@ -5,3 +5,4 @@ langgraph
 langchain-groq
 langchain-tavily
 python-dotenv
+langchain-community
